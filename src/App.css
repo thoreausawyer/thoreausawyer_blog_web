@@ -1,0 +1,261 @@
+.divider{
+  width: 100%;
+  border-top: 1px solid rgba(0,0,0,0.2);
+}
+
+.emphasis{
+  font-weight: bolder;
+}
+
+.word-badge{
+  border: 1px solid rgba(0,0,0,0.5);
+  border-radius: 30px 30px;
+  padding: 6px 20px;
+
+  color: rgba(0,0,0,0.5);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 140%;
+}
+.word-badge:hover{
+  background-color: rgba(0,0,0,0.03);
+  cursor: pointer;
+}
+
+.black-button{
+  border-radius: 46px;
+  width: 95px;
+  height: 30px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: rgba(0,0,0,1);
+  
+  color: rgba(255,255,255,1);
+
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 140%;
+
+  cursor: pointer;
+}
+
+.black-button:hover{
+  background-color: rgba(0,0,0,0.85);
+}
+
+.black-large-full-button{
+  border-radius: 46px;
+
+  width: 100%;
+  height: 48px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: rgba(0,0,0,1);
+
+  color: rgba(255,255,255,1);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 140%;
+
+  cursor: pointer;
+}
+
+.black-large-full-button:hover{
+  background-color: rgba(0,0,0,0.85);
+}
+
+.disable-button{
+  border-radius: 46px;
+  width: 95px;
+  height: 30px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: rgba(0,0,0,0.4);
+  
+  color: rgba(255,255,255,1);
+
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 140%;
+
+  cursor: not-allowed;
+}
+
+.white-button{
+  border: 1px solid rgba(0,0,0,0.5);
+  border-radius: 46px;
+  width: 93px;
+  height: 28px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: rgba(255,255,255,1);
+  
+  color: rgba(0,0,0,0.5);
+
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 140%;
+
+  cursor: pointer;
+}
+
+.white-button:hover{
+  background-color: rgba(0,0,0,0.03);
+}
+
+.icon-box {
+  width: 24px;
+  height: 24px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-box-small {
+  width: 16px;
+  height: 16px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-box-large {
+  width: 40px;
+  height: 40px;
+
+  margin-left: 35%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.icon-button {
+  border-radius: 50% 50%;
+
+  width: 24px;
+  height: 24px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+}
+
+.icon-button:hover {
+  background-color: 0, 0, 0, 0.05;
+}
+
+.icon{
+  width: 100%;
+  height: 100%;
+  
+  background-position: 50% 50%;
+  background-size: 100% 100%;
+
+}
+
+.eye-light-off-icon {
+  background-image: url(assets/image/black-eye-crossed.png);
+}
+.eye-light-on-icon {
+  background-image: url(assets/image/white-eye.png);
+}
+.expand-right-light-icon {
+  width: 16px;
+  height: 16px;
+  background-image: url(assets/image/angle-right.png);
+}
+
+.expand-left-light-icon {
+  width: 16px;
+  height: 16px;
+  background-image: url(assets/image/angle-left.png);
+}
+
+.logo-light-icon {
+  background-image: url(assets/image/logo-light.png);
+}
+
+.insta-icon {
+  background-image: url(assets/image/insta.png);
+}
+
+.naver-blog-icon {
+  background-image: url(assets/image/naver-blog.png);
+}
+
+.logo-dark-icon {
+  background-image: url(assets/image/logo-dark.png);
+}
+
+.search-light-icon{
+  background-image: url(assets/image/white-search.png);
+}
+
+.white-checkbox-icon{
+  background-image: url(assets/image/white-checkbox.png);
+}
+
+.black-checkbox-icon{
+  background-image: url(assets/image/black-checkbox.png);
+}
+
+.image-box-light-icon{
+  background-image: url(assets/image/white-picture.png);
+}
+
+.close-icon{
+  background-image: url(assets/image/white-x.png);
+}
+
+.more-icon{
+  background-image: url(assets/image/white-menu-dots.png);
+}
+
+.favorite-fill-icon{
+  background-image: url(assets/image/black-heart.png);
+}
+
+.favorite-light-icon{
+  background-image: url(assets/image/white-heart.png);
+}
+
+.up-light-icon{
+  background-image: url(assets/image/angle-up.png);
+}
+
+.down-light-icon{
+  background-image: url(assets/image/angle-down.png);
+}
+
+.comment-icon{
+  background-image: url(assets/image/white-comment.png);
+}
+
+.edit-icon{
+  background-image: url(assets/image/white-edit.png);
+}
+
+.image-box-white-icon{
+  background-image: url(assets/image/white-user.png);
+}
+
+.arrow-right-icon{
+  background-image: url(assets/image/arrow-right.png);
+}
