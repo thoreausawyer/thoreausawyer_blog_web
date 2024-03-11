@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a8d24e95.css",
-    "main.js": "/static/js/main.2bba1325.js",
+    "main.js": "/static/js/main.59314608.js",
     "static/media/background-violet-dye.png": "/static/media/background-violet-dye.879336e4261e354b74af.png",
     "static/media/IropkeBatangM.woff": "/static/media/IropkeBatangM.950fceb73642b113da89.woff",
     "static/media/TYScript-Rg.ttf": "/static/media/TYScript-Rg.a7cee9664c6846b8d1d0.ttf",
@@ -19,10 +19,10 @@
     "static/media/black-heart.png": "/static/media/black-heart.cdcb5e8a36c053bcdcbb.png",
     "index.html": "/index.html",
     "main.a8d24e95.css.map": "/static/css/main.a8d24e95.css.map",
-    "main.2bba1325.js.map": "/static/js/main.2bba1325.js.map"
+    "main.59314608.js.map": "/static/js/main.59314608.js.map"
   },
   "entrypoints": [
     "static/css/main.a8d24e95.css",
-    "static/js/main.2bba1325.js"
+    "static/js/main.59314608.js"
   ]
 }
