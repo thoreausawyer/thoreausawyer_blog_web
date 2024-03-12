@@ -12,7 +12,7 @@ import GetCommentListResponseDto from "./response/board/get-comment-list.respons
 import { GetPopularListResponseDto, GetRelationListResponseDto } from "./response/search";
 import { PatchNicknameRequestDto, PatchProfileImageRequestDto } from "./request/user";
 
-const DOMAIN = 'http://54.180.162.66:4000';
+const DOMAIN = 'http://52.78.159.56:4000';
 
 const API_DOMAIN = `${DOMAIN}/api/v1`;
 
