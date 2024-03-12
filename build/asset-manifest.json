@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8d24e95.css",
+    "main.js": "/static/js/main.6d068c0d.js",
+    "static/media/background-violet-dye.png": "/static/media/background-violet-dye.879336e4261e354b74af.png",
+    "static/media/IropkeBatangM.woff": "/static/media/IropkeBatangM.950fceb73642b113da89.woff",
+    "static/media/TYScript-Rg.ttf": "/static/media/TYScript-Rg.a7cee9664c6846b8d1d0.ttf",
+    "static/media/BuongiornoRastellino.otf": "/static/media/BuongiornoRastellino.d49f7071754972d677d0.otf",
+    "static/media/TYSerif-Book.ttf": "/static/media/TYSerif-Book.603f40ab2e1ffb4fd754.ttf",
+    "static/media/AmsterdamFour.ttf": "/static/media/AmsterdamFour.64154e4485e61ccc7cd9.ttf",
+    "static/media/logo-dark-removebg.png": "/static/media/logo-dark-removebg.44cbeb60ce6284f20c6d.png",
+    "static/media/logo-light.png": "/static/media/logo-light.7df8de12ac5c82639d0f.png",
+    "static/media/logo-dark.png": "/static/media/logo-dark.d4d8bfd8329fbc044c16.png",
+    "static/media/black-eye-crossed.png": "/static/media/black-eye-crossed.a633caf6d882ccd61cd8.png",
+    "static/media/white-eye.png": "/static/media/white-eye.dc8f5885350739130ca2.png",
+    "static/media/white-heart.png": "/static/media/white-heart.eb80668c7638b9221618.png",
+    "static/media/white-user.png": "/static/media/white-user.5cdfd5220aa1731cfa3e.png",
+    "static/media/white-search.png": "/static/media/white-search.f8625530f28f5f5d0bfa.png",
+    "static/media/black-heart.png": "/static/media/black-heart.cdcb5e8a36c053bcdcbb.png",
+    "index.html": "/index.html",
+    "main.a8d24e95.css.map": "/static/css/main.a8d24e95.css.map",
+    "main.6d068c0d.js.map": "/static/js/main.6d068c0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8d24e95.css",
+    "static/js/main.6d068c0d.js"
+  ]
+}
